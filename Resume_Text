@@ -1,0 +1,40 @@
+Software Developer Engineer 2 on Amazon Business Personalization
+Amazon
+07/2018 - Present
+* Implemented and ran 27 A/B experiments throughout the website for Business customers.
+* Total experiment wins resulted in an increase of $455 million annualized order purchase sales (OPS)
+* Experimentation Bar Raiser for Personalization (Have reviewed over 120 experiments since  2021)
+* Migrated front-end rendering of team's recommenders to new platform built on TypeScript and Kata (html templating language)
+* Implemented multiple recommenders using Python for daily data builds and Java for online processing
+* Tech lead for improving pricing discovery for business discount programs throughout the site
+* Led work streams for wholesale theme for AB Personalization roadmap throughout 2021 and 2022
+* Coordinated all personalization efforts for 2022 Small Business week event world-wide. Event drove $485MM in OPS 
+* Created first Sponsored Products + organic recommendation blend with business discount programs
+* Tech lead for customizing Buy Again Page for Amazon Business customers - 2023
+* Built out client and server logic for numerous discount UX features for recommenders on home, detail and buy again pages (TypeScript)
+* Created daily builds which compute item similarities and best sellers using various AWS technologies
+* Develop features and maintain operational health of our Remote Strategy Service (Coral service built on Apollo and Amazon Linux 2)
+
+
+
+[Startup] Chief Data Officer
+Capless
+* Platform that allows startups to intelligently find investors for funding (https://capless.ai), team of three
+* Accepted into Product 10X Accelerator (https://product10x.com/startups/)
+* Applied to Y Combinator Summer 2022 Batch and advanced to interview stage
+* Created graph-based algorithm and visualization tool to help find co-investors, using Crunchbase investments data
+* Created online platform and built out Feed, Profile, Messaging pages
+* Technologies used: React and D3 for front-end and graph visualization, AWS tools like lambda, S3, Amplify, Cognito and CDK for backend 
+
+iOS Developer for DJI Drone Agriculture Solutions
+Ag-Sensus, LLC
+10/2016 - 05/2018
+* Computed waypoints given a field boundary that guide the drone through flight while it takes measurements
+* Wrote code in C++ and Swift that measured crop height via LIDAR in a DJI manifold, sent to the iPad and overlaid the height graph on a map
+* Designed and implemented a user interface allowing farmers to analyze past flight data from multiple fields
+
+Software Engineer Intern on the F-15 Training Systems and Services Team
+The Boeing Company
+05/2016 - 08/2016
+* Modified and enhanced F-15 3D model with Blender and imported into X-Plane to be used with the F-15 Trainer
+* Rewrote X-Plane plugin written in C++ to receive standardized network packets created by Boeing instead of custom messages
